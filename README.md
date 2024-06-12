@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leandros Thoidis</h1>
+<h1>Hi 👋, I'm Leandros Thoidis</h1>
 <h3 align="center">A passionate developer from Greece</h3>
 
 <h3 align="left">Languages and Tools:</h3>
