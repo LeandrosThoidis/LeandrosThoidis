@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Leandros Thoidis</h1>
 
-<h2>A passionate developer from Greece 🇬🇷</h2>
+<h3>A passionate developer from Greece</h3>
 
 <h3>🎓 Graduate of the Computer Engineering & Informatics Department at the University of Patras</h3>
 
