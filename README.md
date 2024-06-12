@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Leandros Thoidis</h1>
 <h3>A passionate developer from Greece</h3>
-<h3>🎓 Graduate of the Computer Engineering & Informatics Department at the University of Patras</h3>h3>
+
+<h3>🎓 Graduate of the Computer Engineering & Informatics Department at the University of Patras</h3>
 
 <h3>💻 Enthusiastic about coding and always eager to learn new technologies</h3>
 
