@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Leandros Thoidis</h1>
-<h3 align="center">A passionate developer from Greece</h3>
+<h3>A passionate developer from Greece</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
