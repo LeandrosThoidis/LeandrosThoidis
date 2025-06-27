@@ -1,7 +1,6 @@
 <h1>👋 Hi, I'm Leandros Thoidis</h1>
 <h3>A passionate data enthusiast from Patras, Greece</h3>
 <h3>🎓 Graduate of the Computer Engineering & Informatics Department at the University of Patras</h3>
-<h3>📊 Focused on Data Engineering, ETL pipelines, and data infrastructure</h3>
 
 <h3 align="left">🔧 Data Engineering Skills & Tools:</h3>
 <p align="left">
