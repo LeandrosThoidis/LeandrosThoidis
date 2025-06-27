@@ -2,7 +2,7 @@
 <h3>A passionate data enthusiast from Patras, Greece</h3>
 <h3>🎓 Graduate of the Computer Engineering & Informatics Department at the University of Patras</h3>
 
-<h3 align="left">🔧 Data Engineering Skills & Tools:</h3>
+<h3 align="left">🔧Skills & Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
