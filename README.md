@@ -4,36 +4,43 @@
 
 <h3 align="left">🔧 Skills &amp; Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40" style="margin-right: 10px;" />
+         alt="Python" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-         alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+         alt="MySQL" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
-         alt="Power BI" width="40" height="40" style="margin-right: 10px;" />
+         alt="Power BI" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg"
-         alt="Jupyter" width="40" height="40" style="margin-right: 10px;" />
+         alt="Jupyter" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-         alt="Scikit-learn" width="40" height="40" style="margin-right: 10px;" />
+         alt="Scikit-learn" width="40" height="40" style="vertical-align:middle;">
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+     style="text-decoration:none; margin-right:10px;">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-         alt="Firebase" width="40" height="40" style="margin-right: 10px;" />
+         alt="Firebase" width="40" height="40" style="vertical-align:middle;">
   </a>
 </p>
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/leandros-thoidis/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/leandros-thoidis/"
+     target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
-         alt="LinkedIn" width="40" height="40" />
+         alt="LinkedIn" width="40" height="40" style="vertical-align:middle;">
   </a>
 </p>
