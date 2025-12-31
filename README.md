@@ -37,10 +37,6 @@ I'm a Computer Engineering & Informatics graduate from the University of Patras 
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
       <br>Scikit-learn
     </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
   </tr>
 </table>
 
@@ -49,7 +45,6 @@ I'm a Computer Engineering & Informatics graduate from the University of Patras 
 - **Data Analysis**: Statistical analysis, exploratory data analysis, reporting
 - **Business Intelligence**: Dashboard development, data visualization, KPI tracking
 - **Machine Learning**: Predictive modeling, classification, regression analysis
-- **Cloud Services**: Firebase integration and deployment
 
 ## 📊 Areas of Interest
 - Data Pipeline Architecture
